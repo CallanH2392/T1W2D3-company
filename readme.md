@@ -70,6 +70,9 @@ Home page, for now, just displays some lorem ipsum text. Here is the code that w
 ### Services
 Servies page displays the list of services that we provide.
 
+## contact
+Form displayed so that we can create a contact me page for getting in touch with me.
+
 ## Styling
 
 ### Components
